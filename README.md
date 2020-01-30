@@ -1,6 +1,6 @@
-# Flix
+# Flixster3
 Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
-## Flix Part 1
+## Flixster3
 
 ### User Stories
 `TODO://` In the **User Stories section below**, add an `x` in the `-[ ]` like this `- [x]` for any user story you complete. (🚫 Remove this paragraph after after checking off completed user stories)
@@ -30,7 +30,7 @@ Describe any challenges encountered while building the app.
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
 - [Glide](https://github.com/bumptech/glide) - Image loading and caching library for Androids
 
-## Flix Part 2
+## Flixster3
 
 ### User Stories
 
